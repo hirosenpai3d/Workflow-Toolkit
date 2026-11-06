@@ -1,0 +1,58 @@
+GUMROAD FORM · WORKFLOW TOOLKIT (FREE)
+=======================================
+(Copy each field into the Gumroad product form.)
+
+Name:
+Workflow Toolkit · Cleanup & Organization Tools for Blender
+
+Price:
+0+ (pay what you want, minimum 0)
+
+URL slug:
+workflow-toolkit
+
+Summary (shows under the title):
+Free Blender add-on: apply modifiers, fix normals, purge unused data, rename and sort your scene from one panel.
+
+Description:
+Tidy any scene in a few clicks.
+
+Workflow Toolkit puts the cleanup, geometry and organization tasks you do every day in one sidebar panel,
+so you stop digging through menus.
+
+Modifiers and Geometry
+- Apply or remove every modifier and constraint
+- Triangulate, Tris to Quads, Merge by Distance, Recalculate Normals
+- Origin to Geometry and Drop to Floor
+
+Cleanup and Optimization
+- Remove unused materials, hidden and empty objects
+- Purge unused data to make the file lighter
+- Light Viewport: one click for smoother navigation, one click to undo
+
+Organization and Renaming
+- Sequential rename, prefix by type (MESH_, CAM_, LGT_...)
+- Group the selection into a new collection, or the whole scene by type
+
+Safe by design: Ctrl+Z works on every tool and anything that deletes asks first.
+Interface in English and Spanish, a tooltip on every control.
+
+Requirements: Blender 5.2 LTS (works from 4.2).
+
+More add-ons by Hiro Hiro Senpai: Lightning Forge (procedural lightning) and Impact Forge (anime impact
+frames) at https://hirohirosenpai.gumroad.com
+
+Call to action button (max 26 characters):
+Get it free
+
+Content / files:
+WorkflowToolkit_1.2.0.zip
+
+Cover / thumbnail:
+store/cover_1280x720.png · store/thumb_600x600.png · demo video: store/demo_workflow_toolkit.mp4
+
+Custom message after purchase (max 500 characters):
+Thanks for trying Workflow Toolkit! Install: Blender > Edit > Preferences > Add-ons > Install from Disk, pick Toolkit_EN.py and tick it. Press N in the 3D view and open the Toolkit tab. Every tool works with Ctrl+Z and anything that deletes asks first. More add-ons at hirohirosenpai.gumroad.com
+
+Tags:
+blender, addon, free, workflow, cleanup, modifiers, organization, productivity, tools
